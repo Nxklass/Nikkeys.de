@@ -41375,14 +41375,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
  .u-footer {
   background-image: none;
-  min-height: 102px;
+}
+
+.u-footer .u-sheet-1 {
+  min-height: 78px;
 }
 
 .u-footer .u-btn-1 {
   background-image: none;
   border-style: solid;
   font-size: 1.25rem;
-  margin: 0 auto 0 0;
+  margin: 22px auto 0 0;
   padding: 0;
 }
 
@@ -41390,7 +41393,7 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
   border-style: solid;
   font-size: 1.25rem;
-  margin: 0 auto 0 0;
+  margin: -34px auto 0 296px;
   padding: 0;
 }
 
@@ -41398,59 +41401,59 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
   border-style: solid;
   font-size: 1.25rem;
-  margin: 0 auto 0 0;
+  margin: -34px auto 22px 165px;
   padding: 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-btn-1 {
-    margin-left: calc(((100% - 1140px) / 2) + 53px);
+    margin-left: 53px;
   }
 
   .u-footer .u-btn-2 {
-    margin-left: calc(((100% - 1140px) / 2) + 100px);
+    margin-left: 100px;
   }
 
   .u-footer .u-btn-3 {
-    margin-left: calc(((100% - 1140px) / 2) + 100px);
+    margin-left: 100px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-btn-1 {
-    margin-left: calc(((100% - 1140px) / 2) + 163px);
+    margin-left: 163px;
   }
 
   .u-footer .u-btn-2 {
-    margin-left: calc(((100% - 1140px) / 2) + 210px);
+    margin-left: 210px;
   }
 
   .u-footer .u-btn-3 {
-    margin-left: calc(((100% - 1140px) / 2) + 210px);
+    margin-left: 210px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-btn-1 {
-    margin-left: calc(((100% - 1140px) / 2) + 253px);
+    margin-left: 253px;
   }
 
   .u-footer .u-btn-2 {
-    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-left: 300px;
   }
 
   .u-footer .u-btn-3 {
-    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-left: 300px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-btn-1 {
-    margin-left: calc(((100% - 1140px) / 2) + 353px);
+    margin-left: 353px;
   }
 
   .u-footer .u-btn-2 {
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-left: 400px;
   }
 
   .u-footer .u-btn-3 {
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-left: 400px;
   }
 }
 
