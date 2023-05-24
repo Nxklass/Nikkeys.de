@@ -41410,10 +41410,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-btn-2 {
+    margin-top: 20px;
     margin-left: 100px;
   }
 
   .u-footer .u-btn-3 {
+    margin-top: 20px;
     margin-left: 100px;
   }
 }
@@ -41436,10 +41438,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-btn-2 {
+    margin-top: -34px;
     margin-left: 300px;
   }
 
   .u-footer .u-btn-3 {
+    margin-top: -34px;
     margin-left: 300px;
   }
 }
